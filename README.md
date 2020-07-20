@@ -1,2 +1,3 @@
 # PE-HRM
-# Relation Prediction in Knowledge Graphs,TensorFlow,Python
+# Relation Prediction in Knowledge Graphs
+# TensorFlow # Python
